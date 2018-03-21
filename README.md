@@ -1,4 +1,4 @@
 # BehaviorTree-cpp
 Behavior Tree implement with c++ 11.
 
-![](https://github.com/cwj5012/BehaviorTree-cpp/doc/pic1.png)
+![](https://raw.githubusercontent.com/cwj5012/BehaviorTree-cpp/master/doc/pic1.png)
