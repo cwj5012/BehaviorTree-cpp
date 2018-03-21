@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.9 FATAL_ERROR)
+
+set(PROJECT_NAME "BehaviorTree-cpp")
+set(PROJECT_VERSION "0.1.0-dev")
+set(PROJECT_STRING "${PROJECT_NAME} ${PROJECT_VERSION}")
+set(PROJECT_TARNAME "${PROJECT_NAME}-${PROJECT_VERSION}")
+
+project(${PROJECT_NAME} CXX)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_subdirectory(src)
